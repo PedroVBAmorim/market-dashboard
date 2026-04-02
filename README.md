@@ -2,7 +2,7 @@
 
 A real-time stock analysis dashboard built with Python, Pandas, Streamlit, and the Claude AI API.
 
-**Live demo:** *(add your Streamlit Cloud URL here after deploying)*
+**Live demo:** market-dashboard-c5ytwygv2kgyrqcxappmfkc
 
 ---
 
@@ -20,7 +20,7 @@ A real-time stock analysis dashboard built with Python, Pandas, Streamlit, and t
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/market-dashboard.git
+git clone https://github.com/PedroVBAmorim/market-dashboard.git
 cd market-dashboard
 ```
 
